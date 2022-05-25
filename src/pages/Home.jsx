@@ -5,6 +5,7 @@ import "../style/Home.css";
 const Home = (props) => {
     return (
         <section>
+            
             <div className="">
 
             </div>
