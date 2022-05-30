@@ -1,0 +1,43 @@
+.gruppetimer-form{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.form-gruppetimer{
+    height: 600px;
+    margin-left: -300px;
+}
+
+.gruppetimer-header{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.gruppetimer-section{
+    margin-left: 650px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gruppetimer-info{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.gruppetimer-info-header{
+    font-size: 38px;
+    font-weight: 500;
+    margin-left: -50px;
+}
+
+.gruppetimer-info-text{
+    text-align: center;
+    margin-left: -150px;
+    width: 500px;
+    font-size: 20px;
+}
+
+*{
+    font-family: 'Segoe UI';
+}
