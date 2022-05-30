@@ -27,6 +27,11 @@ export default function Header() {
             </Link>
 
             <li className="nav-item" />
+            <Link className="nav-link active" to="/medlemskap">
+              Medlemskap
+            </Link>
+
+            <li className="nav-item" />
             <Link className="nav-link active" to="/om-oss">
               Om oss
             </Link>
