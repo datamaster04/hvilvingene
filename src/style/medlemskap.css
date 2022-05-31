@@ -17,6 +17,7 @@
 }
 
 .øvrige-medlemskaper-header{
+    margin-bottom: 15px;
     font-size: 50px;
     font-weight: bold;
     text-align: center;
@@ -33,6 +34,14 @@
     text-align: center;
     width: 500px;
     margin-left: 700px;
+}
+
+.øvrige-medlemskaper{
+    display: grid;
+    grid-template-columns: 0.7fr 1fr;
+    grid-template-rows: 1fr 0.3fr;
+    margin-left: 570px;
+    margin-top: 30px;
 }
 
 .medlemskort-image-medlem-junior{
@@ -115,4 +124,38 @@
     font-size: 20px;
     text-align: center;
     width: 220px;
+}
+
+.header-medlem-pluss{
+    font-size: 20px;
+    text-align: center;
+    width: 200px;
+}
+
+.pris-medlem-pluss{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    font-size: 15px;
+}
+
+.pris-medlem-pluss-3-måneder{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    font-size: 15px;
+}
+
+.pris-medlem-pluss-6-måneder{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    font-size: 15px;
+}
+
+.pris-medlem-pluss-9-måneder{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    font-size: 15px;
 }
