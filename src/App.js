@@ -17,6 +17,7 @@ function App() {
         <Route path="/gruppetimer" element={<Pages.Gruppetimer />} />
         <Route path="/kontakt-oss" element={<Pages.KontaktOss />} />
         <Route path="/om-oss" element={<Pages.OmOss />} />
+        <Route path="/medlemskap" element={<Pages.medlemskap />} />
       </Routes>
   </BrowserRouter>
 }

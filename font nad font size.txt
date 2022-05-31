@@ -1,3 +1,0 @@
-overskrift: Sefoe UI
-underoverskrift: Sefoe UI
-Tekst: Sefoe UI

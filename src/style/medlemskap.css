@@ -1,0 +1,118 @@
+.standard-medlemskap{
+    display: grid;
+    grid-template-columns: 0.7fr 1fr;
+    grid-template-rows: 1fr 0.3fr;
+    margin-left: 570px;
+}
+
+.header-medlemskap{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+*{
+    font-family: 'Segoe UI';
+}
+
+.øvrige-medlemskaper-header{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.info-medlemskap{
+    text-align: center;
+    width: 500px;
+    margin-left: 700px;
+    margin-bottom: 30px;
+}
+
+.øvrige-medlemskaper-info{
+    text-align: center;
+    width: 500px;
+    margin-left: 700px;
+}
+
+.medlemskort-image-medlem-junior{
+    height: 150px;
+    border-radius: 2%;
+}
+
+.medlemskort-image-medlem-ungdom{
+    height: 150px;
+    border-radius: 2%;
+}
+
+.medlemskort-image-medlem-voksen{
+    height: 150px;
+    border-radius: 2%;
+}
+
+
+.medlemskort-image-medlem-senior{
+    height: 150px;
+    border-radius: 2%;
+}
+
+
+.pris-medlem-junior{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    font-size: 15px;
+}
+
+.pris-medlem-ungdom{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    font-size: 15px;
+}
+
+.pris-medlem-voksen{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    font-size: 15px;
+}
+
+.pris-medlem-senior{
+    margin-bottom: 20px;
+    text-align: center;
+    width: 200px;
+    font-size: 15px;
+}
+
+.medlemskort-image-medlem-junior{
+    margin-bottom: 20px;
+}
+
+.medlemskort-image-medlem-voksen{
+    margin-bottom: 20px;
+}
+
+.header-medlem-junior{
+    font-size: 20px;
+    text-align: center;
+    width: 220px;
+}
+
+.header-medlem-ungdom{
+    font-size: 20px;
+    text-align: center;
+    width: 240px;
+}
+
+.header-medlem-voksen{
+    font-size: 20px;
+    text-align: center;
+    width: 240px;
+}
+
+.header-medlem-senior{
+    font-size: 20px;
+    text-align: center;
+    width: 220px;
+}
