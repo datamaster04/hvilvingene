@@ -7,8 +7,7 @@ export default function Header() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light menylinje">
       <div className="container-fluid">
-        <button
-          className="navbar-toggler">
+        <button className="navbar-toggler">
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
