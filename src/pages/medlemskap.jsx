@@ -79,10 +79,8 @@ const medlemskap = (props) => {
             andre fordeler.
           </div>
           <div className="øvrige-medlemskaper">
-          <div className="medlem-pluss">
-              <div className="header-medlem-pluss">
-                Standard Pluss
-              </div>
+            <div className="medlem-pluss">
+              <div className="header-medlem-pluss">Standard Pluss</div>
               <div className="pris-medlem-pluss">Pris: 150 kroner</div>
               <div className="image-medlem-pluss">
                 <img
@@ -92,38 +90,32 @@ const medlemskap = (props) => {
               </div>
             </div>
             <div className="medlem-pluss-3-måneder">
-              <div className="header-medlem-junior">
-                Standard + 3 måneder
-              </div>
+              <div className="header-medlem-junior">Standard + 3 måneder</div>
               <div className="pris-medlem-junior">Pris: 200 kroner</div>
               <div className="image-medlem-junior">
                 <img
                   className="medlemskort-image-medlem-junior"
-                  src={MedlemskortPluss}
+                  src={MedlemskortStandard}
                 ></img>
               </div>
             </div>
             <div className="medlem-pluss-6-måneder">
-              <div className="header-medlem-junior">
-              Standard + 6 måneder
-              </div>
+              <div className="header-medlem-junior">Standard + 6 måneder</div>
               <div className="pris-medlem-junior">Pris: 350 kroner</div>
               <div className="image-medlem-junior">
                 <img
                   className="medlemskort-image-medlem-junior"
-                  src={MedlemskortPluss}
+                  src={MedlemskortStandard}
                 ></img>
               </div>
             </div>
             <div className="medlem-pluss-9-måneder">
-              <div className="header-medlem-junior">
-              Standard + 9 måneder
-              </div>
+              <div className="header-medlem-junior">Standard + 9 måneder</div>
               <div className="pris-medlem-junior">Pris: 469 kroner</div>
               <div className="image-medlem-junior">
                 <img
                   className="medlemskort-image-medlem-junior"
-                  src={MedlemskortPluss}
+                  src={MedlemskortStandard}
                 ></img>
               </div>
             </div>
