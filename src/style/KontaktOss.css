@@ -1,0 +1,69 @@
+.container-KontaktOss{
+    display: flex;
+}
+
+.KontaktOss-header{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.KontaktOss-opening-header{
+    font-size: 40px;
+    font-weight: 500;
+    width: 300px;
+    margin-top: 100px;
+}
+
+.KontaktOss-opening-section{
+    margin-left: 200px;
+    height: 270px;
+    width: 300px;
+}
+
+.KontaktOss-opening{
+    text-align: center;
+}
+
+.form-section-KontaktOss{
+    margin-left: 150px;
+}
+
+p.dager{
+    width: 200px;
+}
+
+p.informasjon{
+    margin: 0;
+    text-align: center;
+}
+
+.kontaktinformasjon{
+    width: 250px;
+    margin-left: 200px;
+    margin-top: 100px;
+    height: 150px;
+}
+
+.kontaktinformasjon-header{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.kontaktinformasjon-section{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+    margin-left: 150px;
+    margin-top: 100px
+}
+
+*{
+    font-family: 'Segoe UI';
+}
+
+.form-KontaktOss{
+    height: 800px;
+}
