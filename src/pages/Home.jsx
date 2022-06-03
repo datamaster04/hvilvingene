@@ -6,6 +6,8 @@ import BildeEnSosialArena from "../assets/images/bilde-en-sosial-arena.png";
 import BildeAlleAldersgrupper from "../assets/images/bilde-alle-aldre.png";
 import BildeTreningsglede from "../assets/images/bilde-treningsglede.png";
 
+
+
 const åpningstider = [
   {
     day: "Mandag",
